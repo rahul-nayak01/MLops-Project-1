@@ -103,3 +103,8 @@
 
 ---------------------------------------------------------
 
+
+25. Create the code structure of "Prediction Pipeline" and setup your app.py
+26. Add "static" and "template" dir to the project.
+
+-----
